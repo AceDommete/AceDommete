@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Neek** Aka **AceDommete**. I am currently learning **MERN**<br>stack and developing different apps and web apps.
+I'm **AceDommete**. I am currently learning **MERN**<br>stack and developing different apps and web apps.
 <p align="center">
   <img src="https://i.imgur.com/XwoJi99.png" width="300px" height="300">
 </p>
